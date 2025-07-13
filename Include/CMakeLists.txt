@@ -1,0 +1,1 @@
+target_include_directories(AECEngine PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
