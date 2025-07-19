@@ -6,7 +6,7 @@ namespace AEC {
 		m_start = 0;
 		m_stop = 0;
 		m_pausedTime = 0;
-		m_isPaused = false;
+		m_isPaused = true;
 	}
 	Timer::Timer(const Timer& obj) : m_start(obj.m_start), m_stop(obj.m_stop), m_pausedTime(obj.m_pausedTime), m_isPaused(obj.m_isPaused) {
 
