@@ -1,5 +1,6 @@
 # About
 AECEngine is a static SDL2, SDL2_image, SDL2_ttf and SDL2_mixer wrapper library
+WORK IN PROGRESS
 
 # Requirements
 ## Git
